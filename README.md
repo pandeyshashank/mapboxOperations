@@ -27,7 +27,7 @@ Mapbox Upload API , GeoJSON & MBTiles Files Processing
     
     
     
-   Then in Levels API Response you should send feature id i.e 1 with Rajasthan's row.
+   Then in Levels API Response you should send feature id i.e 1 with Rajasthan's data.
 
 3. If the GeoJSON file is too large to upload, kindly use Mapbox's library **_TippeCanoe_** to convert large GeoJSON to MBTiles file which can be uploaded to Mapbox TileSet.
    Kindly Check *https://docs.mapbox.com/help/troubleshooting/uploads/* to check Upload limits and issues. 
